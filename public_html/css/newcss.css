@@ -13,8 +13,18 @@ div#menu a{color: darkkhaki;
     display: inline-block;
     width: 200px;
     height: 50px;
+    background-image:url();
     background-repeat: no-repeat;
     padding-top: 7px;
     padding-left: 13px;
     text-decoration: none;
+}
+div#menu a:hover{
+    background-position: 0px -50px;
+    background-color: bisque;
+}
+
+
+div#menu a:active{
+    background-position: 0px -100px;
 }
