@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 body{ margin: 0px;
 }
-div#menu a{color: darkkhaki;
+div#menu a{color: red;
     display: inline-block;
     width: 200px;
     height: 50px;
@@ -18,13 +18,18 @@ div#menu a{color: darkkhaki;
     padding-top: 7px;
     padding-left: 13px;
     text-decoration: none;
+    
 }
 div#menu a:hover{
    
-    background-color: bisque;
+   
 }
 
 
 div#menu a:active{
     background-position: 0px -100px;
+}
+a{font-size: 37px;
+    
+    
 }
