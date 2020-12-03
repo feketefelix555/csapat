@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 body{ margin: 0px;
 }
-div#menu a{color: red;
+div#menu a{color:white;
     display: inline-block;
     width: 200px;
     height: 50px;
@@ -30,6 +30,9 @@ div#menu a:active{
     background-position: 0px -100px;
 }
 a{font-size: 37px;
-    
-    
+      
 }
+*{
+    background-image:url('orsz_del-afrika.jpg');
+}
+    
