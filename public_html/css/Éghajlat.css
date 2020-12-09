@@ -4,15 +4,9 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 2020.11.12., 10:13:48
+    Created on : 2020.12.03., 10:31:01
     Author     : Félix
 */
-h1{
-    
-}
-h3{color:blanchedalmond;
-   font-family: sans-serif;  
-}
-body{
-    background-color: burlywood;
+*{
+    background-image:url('afrika_387836_31697.jpg')
 }
