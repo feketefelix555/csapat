@@ -11,4 +11,13 @@ table>tbody>tr>td {
     padding-top: 2px;
     padding-bottom: 2px;
     font-size: 16px;
+    
 }
+*{
+    background-color: black;
+    
+}
+p{color: white;}
+h1,h2{color: white;}
+ul{color: white;}
+table{color: white;}
