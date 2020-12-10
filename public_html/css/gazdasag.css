@@ -1,10 +1,10 @@
 table {
-    border: black 2px solid;
+    border: white 2px solid;
     border-radius: 5px;
 }
 
 table>tbody>tr>td {
-    border: #000000 0.5px solid;
+    border: #ffffff 0.5px solid;
     min-width: 150px;
     padding-left: 10px;
     padding-right: 10px;
@@ -21,3 +21,11 @@ p{color: white;}
 h1,h2{color: white;}
 ul{color: white;}
 table{color: white;}
+
+table>thead {
+    text-align: center;
+}
+
+img {
+    border: white 0.5px solid;
+}
