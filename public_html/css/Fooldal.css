@@ -13,7 +13,7 @@ div#menu a{color:white;
     display: inline-block;
     width: 200px;
     height: 50px;
-    background-image:url('Button.png');
+    background-image:url('../Képek/Button.png');
     background-repeat: no-repeat;
     padding-top: 7px;
     padding-left: 13px;
@@ -33,6 +33,6 @@ a{font-size: 37px;
       
 }
 *{
-    background-image:url('orsz_del-afrika.jpg');
+    background-image:url('../Képek/orsz_del-afrika.jpg');
 }
     
