@@ -28,4 +28,5 @@ table>thead {
 
 img {
     border: white 0.5px solid;
+    border-radius: 12px;
 }
