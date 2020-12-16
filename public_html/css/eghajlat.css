@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020. dec. 16., 11:47:29
+    Author     : User
+*/
+
+body {
+    background-image:url('afrika_387836_31697.jpg')
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+div.kepkeret {
+    width: 300px;
+    text-align: center;
+    float: right;
+    font-size: 75%;
+    padding: 0px 5px 5px;
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 25px;  
+    border: black 2px solid;
+    font-style: italic;
+}
+
+img {
+    border-radius: 25px;
+}
