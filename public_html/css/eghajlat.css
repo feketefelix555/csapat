@@ -25,7 +25,7 @@ li {
 }
 
 div.kepkeret {
-    width: 300px;
+    width: 304px;
     text-align: center;
     float: right;
     font-size: 75%;
@@ -39,4 +39,5 @@ div.kepkeret {
 
 img {
     border-radius: 25px;
+    border: white 2px solid;
 }
