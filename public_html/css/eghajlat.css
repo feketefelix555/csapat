@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body {
-    background-image:url('afrika_387836_31697.jpg')
+    background-color: black;
 }
 
 p {
@@ -25,18 +25,19 @@ li {
 }
 
 div.kepkeret {
-    width: 300px;
+    width: 304px;
     text-align: center;
     float: right;
     font-size: 75%;
-    padding: 0px 5px 5px;
+    padding: 0px 0px 0px;
     margin-left: 20px;
     background-color: white;
     border-radius: 25px;  
-    border: black 2px solid;
+    border: white 2px solid;
     font-style: italic;
 }
 
 img {
     border-radius: 25px;
+    border: white 2px solid;
 }
