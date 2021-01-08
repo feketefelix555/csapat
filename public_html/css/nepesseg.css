@@ -20,3 +20,16 @@ p{
 h1, h2 {
     color: white;
 }
+a{color:white;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-image:url('../Képek/Button.png');
+    background-repeat: no-repeat;
+    padding-top: 7px;
+    padding-left: 13px;
+    text-decoration: none;
+text-align: center;
+font-size: 37px;
+}
+a:hover{color: burlywood;}

@@ -16,8 +16,7 @@ p {
     color: white;
 }
 
-h1 {
-    color: white;
+h1 {color: white;
 }
 
 li {
@@ -41,3 +40,16 @@ img {
     border-radius: 25px;
     border: white 2px solid;
 }
+a{color:white;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-image:url('../Képek/Button.png');
+    background-repeat: no-repeat;
+    padding-top: 7px;
+    padding-left: 13px;
+    text-decoration: none;
+text-align: center;
+font-size: 37px;
+}
+a:hover{color: burlywood;}
